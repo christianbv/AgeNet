@@ -1,5 +1,4 @@
-# Machine-Learning-Age-Classifier
-
+# AgeNet
 This project is the final assignment in TDT4173 Machine Learning, NTNU Trondheim. Adrian Kjærran, Erling Stray-Bugge and Christian Vennerød have created a deep CNN network for multi-class age classification. The notebooks are published here in this repository, along with a script which you can download and run for yourselves. Please note that the script is a hybrid variant, where a exact age is estimated from the predicted softmax class distributions and an assumption that mean ages in each class is the middle age, e.g. mean age of (30-35) is 32.5. 
 
 ## Estimate your own age locally
