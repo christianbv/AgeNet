@@ -18,7 +18,14 @@ Required dependencies: TensorFlow, Keras, CV2, face_recognition, Numpy, and PIL.
 5. Run the model, and estimate your own age :D 
 
 ## Notebooks
-In this folder, code for downloading data, preprocessing our data, and training the models are found. Please check out the READme file in the notebooks folder for further descriptions. 
+Contains:
+
+1. Code for downloading the different datasets
+2. Preprocessing the datasets
+3. Training the models 
+4. Evaluating the models by visualizing metrics in Tensorboard.
+
+Please check out the READme file in the notebooks folder for further descriptions. 
 
 ## Datasets:
 - Remember to authenticate with Google. 
