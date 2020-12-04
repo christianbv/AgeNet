@@ -6,6 +6,16 @@ This project is the final assignment in TDT4173 Machine Learning, NTNU Trondheim
 
 ## Estimate your own age locally
 
+### *** Update 4.12.2020 *** ###
+If you have problems with downloading the dependencies, try to pip import the following wrappers/libraries: 
+1. opencv-python (for cv2)
+2. Keras (for keras)
+3. tensorflow (tf)
+4. Pillow-PIL (PIL Image wrapper)
+5. cmake (for the face-recognition library to work)
+6. face-recognition (might take some time if dlib is not installed)
+### *** Finish update 4.12.2020 *** ###
+
 Only tested on MacOS Catalina with Python 3.8.   
 Required dependencies: TensorFlow, Keras, CV2, face_recognition, Numpy, and PIL.
 
